@@ -1,5 +1,5 @@
 # notes-application
-I built this application as a part of my Node.js course in Udemy. I was exposed to the following things while the developing application:
+I have built this application as a part of my Node.js course in Udemy. I was exposed to the following things while the developing application:
 1) Node Package Manager (npm) and the available node modules
 2) Command line parser available in Node.js: yargs
 3) Basic Node.js functionalities along with file system tweaking.
